@@ -1,2 +1,2 @@
 # my-contributions
-- [Stackcci] (https://github.com/stackcci/)
+- [Stackcci](https://github.com/stackcci/)
